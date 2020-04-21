@@ -2,7 +2,7 @@ import org.apache.spark._
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.SQLContext
 
-
+//Word count example
 object WordCount {
   def main(args: Array[String]): Unit = {
 
